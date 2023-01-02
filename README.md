@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🌱 Always leaning new Technologies
 - 👯 I’m looking to collaborate on Web Projects
 - 💬 Ask me about Django
-- 📫 How to reach me: mraleemsaleem@gmail.com
+
