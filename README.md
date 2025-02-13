@@ -42,6 +42,3 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="45" height="45"/>
 </p>
 
-[![ProProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProProgrammer15&count_private=true&show_icons=true&theme=dracula)](https://github.com/mehar13hamza/github-readme-stats)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
